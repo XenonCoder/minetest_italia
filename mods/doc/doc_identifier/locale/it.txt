@@ -1,0 +1,13 @@
+Error: This node, item or object is undefined. This is always an error.\\nThis can happen for the following reasons:\\n• The mod which is required for it is not enabled\\n• The author of the subgame or a mod has made a mistake = Errore: questo nodo, articolo o oggetto non è definito. Questo è sempre un errore.\\nCiò può accadere per i motivi seguenti:\\n• Il modulo da esso richiesto non è abilitato\\n• L'autore/trice del gioco o modulo ha commesso un errore
+It appears to originate from the mod “%s”, which is enabled. = Sembra essere originato dal modulo “%s”, che è abilitato.
+It appears to originate from the mod “%s”, which is not enabled! = Sembra essere originato dal modulo “%s”, che è disabilitato!.
+Its identifier is “%s”. = Il suo identificatore è “%s”.
+Lookup tool = Strumento di indagine
+No help entry for this block could be found. = Non è stato possibile trovare nessuna voce di aiuto per questo blocco.
+No help entry for this item could be found. = Non è stato possibile trovare nessuna voce di aiuto per questo articolo.
+No help entry for this object could be found. = Non è stato possibile trovare nessuna voce di aiuto per questo oggetto.
+OK = Va bene
+Punch any block, item or other thing about you wish to learn more about. This will open up the appropriate help entry. The tool comes in two modes which are changed by a rightclick. In liquid mode (blue) this tool points to liquids as well while in solid mode (red) this is not the case. Liquid mode is required if you want to identify a liquid. = Colpite qualunque blocco, articolo o altra cosa riguardo cui desiderate imparare di più. Ciò aprirà la voce di aiuto adatta. Lo strumento è dotato di due modalità cambiate cliccando col tasto destro del mouse. Nella modalità liquidi (blu) questo strumento punta anche ai liquidi, mentre nella modalità solidi (rossa) non è così. La modalità liquida è necessaria se volete identificare un liquido.
+This block cannot be identified because the world has not materialized at this point yet. Try again in a few seconds. = Questo blocco non può essere identificato perché il mondo non si è ancora materializzato in questo punto. Riprovate tra qualche secondo.
+This is a player. = Quest* è un* giocatore/trice.
+This useful little helper can be used to quickly learn more about about one's closer environment. It identifies and analyzes blocks, items and other things and it shows extensive information about the thing on which it is used. = Questo piccolo e utile aiutante può essere usato per imparare rapidamente di più a riguardo dell'ambiente vicino. Identifica e analizza blocchi, articoli e altre cose e mostra ampie informazioni sulla cosa su cui viene usato.

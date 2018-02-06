@@ -1,0 +1,2134 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-25 14:19+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: init.lua
+msgid "Basics"
+msgstr ""
+
+#: init.lua
+msgid "Everything you need to know about Minetest to get started with playing"
+msgstr ""
+
+#: init.lua
+msgid "Advanced usage"
+msgstr ""
+
+#: init.lua
+msgid ""
+"Advanced information about Minetest which may be nice to know, but is not "
+"crucial to gameplay"
+msgstr ""
+
+#: init.lua
+msgid "Quick start"
+msgstr ""
+
+#: init.lua
+msgid "This is a very brief introduction to the basic gameplay:"
+msgstr ""
+
+#: init.lua
+msgid "• Move mouse to look"
+msgstr ""
+
+#: init.lua
+msgid "• [W], [A], [S] and [D] to move"
+msgstr ""
+
+#: init.lua
+msgid "• [Space] to jump or move upwards"
+msgstr ""
+
+#: init.lua
+msgid "• [Shift] to sneak or move downwards"
+msgstr ""
+
+#: init.lua
+msgid "• Mouse wheel or [0]-[9] to select item"
+msgstr ""
+
+#: init.lua
+msgid "• Left-click to mine blocks or attack"
+msgstr ""
+
+#: init.lua
+msgid "• Recover from swings to deal full damage"
+msgstr ""
+
+#: init.lua
+msgid "• Right-click to build blocks and use things"
+msgstr ""
+
+#: init.lua
+msgid "• [I] for the inventory"
+msgstr ""
+
+#: init.lua
+msgid "• First items in inventory appear in hotbar below"
+msgstr ""
+
+#: init.lua
+msgid "• [F9] for the minimap"
+msgstr ""
+
+#: init.lua
+msgid "• Put items into crafting grid (usually 3×3 grid) to craft"
+msgstr ""
+
+#: init.lua
+msgid ""
+"• Use a crafting guide mod to learn crafting recipes or visit <http://wiki."
+"minetest.net/wiki/Crafting>"
+msgstr ""
+
+#: init.lua
+msgid "• Read entries in this help to learn the rest"
+msgstr ""
+
+#: init.lua
+msgid "• [Esc] to close this window"
+msgstr ""
+
+#: init.lua
+msgid "Minetest"
+msgstr ""
+
+#: init.lua
+msgid ""
+"Minetest is a free software game engine for games based on voxel gameplay, "
+"inspired by InfiniMiner, Minecraft, and the like. Minetest was originally "
+"created by Perttu Ahola (alias “celeron55”)."
+msgstr ""
+
+#: init.lua
+msgid ""
+"The player is thrown into a huge world made out of cubes or blocks. These "
+"cubes usually make the landscape they blocks can be removed and placed "
+"almost entirely freely. Using the collected items, new tools and other items "
+"can be crafted. Games in Minetest (also called “subgames”) can, however, be "
+"much more complex than this."
+msgstr ""
+
+#: init.lua
+msgid ""
+"A core feature of Minetest is the built-in modding capability. Mods modify "
+"existing gameplay. They can be as simple as adding a few decorational blocks "
+"or be very complex by e.g. introducing completely new gameplay concepts, "
+"generating a completely different kind of world, and many other things."
+msgstr ""
+
+#: init.lua
+msgid ""
+"Minetest can be played alone or online together with multiple players. "
+"Online play will work out of the box with any mods, with no need for "
+"additional software as they are entirely provided by the server."
+msgstr ""
+
+#: init.lua
+msgid ""
+"Minetest is usually bundled with a simple default game, named “Minetest "
+"Game” (shown in images 1 and 2). You probably already have it. Other games "
+"for Minetest can be downloaded from the official Minetest forums <https://"
+"forum.minetest.net/viewforum.php?f=48>."
+msgstr ""
+
+#: init.lua
+msgid ""
+"Minetest as well as Minetest Game are both unfinished at the moment, so "
+"please forgive us when not everything works out perfectly."
+msgstr ""
+
+#: init.lua
+msgid "Sneaking"
+msgstr ""
+
+#: init.lua
+msgid ""
+"Sneaking makes you walk slower and prevents you from falling off the edge of "
+"a block."
+msgstr ""
+
+#: init.lua
+msgid ""
+"To sneak, hold down the sneak key (default: [Shift]). When you release it, "
+"you stop sneaking. Careful: When you release the sneak key at a ledge, you "
+"might fall!"
+msgstr ""
+
+#: init.lua
+msgid "• Sneak: [Shift]"
+msgstr ""
+
+#: init.lua
+msgid ""
+"Sneaking only works when you stand on solid ground, are not in a liquid and "
+"don't climb."
+msgstr ""
+
+#: init.lua
+msgid ""
+"If you jump while holding the sneak key, you also jump slightly higher than "
+"usual."
+msgstr ""
+
+#: init.lua
+msgid ""
+"Sneaking might be disabled by mods. In this case, you still walk slower by "
+"sneaking, but you will no longer be stopped at ledges."
+msgstr ""
+
+#: init.lua
+msgid "Controls"
+msgstr ""
+
+#: init.lua
+msgid "These are the default controls:"
+msgstr ""
+
+#: init.lua
+msgid "Basic movement:"
+msgstr ""
+
+#: init.lua
+msgid "• Moving the mouse around: Look around"
+msgstr ""
+
+#: init.lua
+msgid "• W: Move forwards"
+msgstr ""
+
+#: init.lua
+msgid "• A: Move to the left"
+msgstr ""
+
+#: init.lua
+msgid "• D: Move to the right"
+msgstr ""
+
+#: init.lua
+msgid "• S: Move backwards"
+msgstr ""
+
+#: init.lua
+msgid "While standing on solid ground:"
+msgstr ""
+
+#: init.lua
+msgid "• Space: Jump"
+msgstr ""
+
+#: init.lua
+msgid "• Shift: Sneak"
+msgstr ""
+
+#: init.lua
+msgid "While on a ladder, swimming in a liquid or fly mode is active"
+msgstr ""
+
+#: init.lua
+msgid "• Space: Move up"
+msgstr ""
+
+#: init.lua
+msgid "• Shift: Move down"
+msgstr ""
+
+#: init.lua
+msgid "Extended movement (requires privileges):"
+msgstr ""
+
+#: init.lua
+msgid ""
+"• J: Toggle fast mode, makes you run or fly fast (requires “fast” privilege)"
+msgstr ""
+
+#: init.lua
+msgid ""
+"• K: Toggle fly mode, makes you move freely in all directions (requires "
+"“fly” privilege)"
+msgstr ""
+
+#: init.lua
+msgid ""
+"• H: Toggle noclip mode, makes you go through walls in fly mode (requires "
+"“noclip” privilege)"
+msgstr ""
+
+#: init.lua
+msgid "• E: Walk fast in fast mode"
+msgstr ""
+
+#: init.lua
+msgid "World interaction:"
+msgstr ""
+
+#: init.lua
+msgid "• Left mouse button: Punch / mine blocks / take items"
+msgstr ""
+
+#: init.lua
+msgid "• Right mouse button: Build or use pointed block"
+msgstr ""
+
+#: init.lua
+msgid "• Shift+Right mouse button: Build"
+msgstr ""
+
+#: init.lua
+msgid "• Roll mouse wheel: Select next/previous item in hotbar"
+msgstr ""
+
+#: init.lua
+msgid "• 0-9: Select item in hotbar directly"
+msgstr ""
+
+#: init.lua
+msgid "• Q: Drop item stack"
+msgstr ""
+
+#: init.lua
+msgid "• Shift+Q: Drop 1 item"
+msgstr ""
+
+#: init.lua
+msgid "• I: Show/hide inventory menu"
+msgstr ""
+
+#: init.lua
+msgid "Inventory interaction:"
+msgstr ""
+
+#: init.lua
+msgid "See the entry “Basics > Inventory”."
+msgstr ""
+
+#: init.lua
+msgid "Camera:"
+msgstr ""
+
+#: init.lua
+msgid "• Z: Zoom (requires “zoom” privilege)"
+msgstr ""
+
+#: init.lua
+msgid "• F7: Toggle camera mode"
+msgstr ""
+
+#: init.lua
+msgid "• F8: Toggle cinematic mode"
+msgstr ""
+
+#: init.lua
+msgid "Interface:"
+msgstr ""
+
+#: init.lua
+msgid "• Esc: Open menu window (pauses in single-player mode) or close window"
+msgstr ""
+
+#: init.lua
+msgid "• F1: Show/hide HUD"
+msgstr ""
+
+#: init.lua
+msgid "• F2: Show/hide chat"
+msgstr ""
+
+#: init.lua
+msgid "• F9: Toggle minimap"
+msgstr ""
+
+#: init.lua
+msgid "• Shift+F9: Toggle minimap rotation mode"
+msgstr ""
+
+#: init.lua
+msgid "• F10: Open/close console/chat log"
+msgstr ""
+
+#: init.lua
+msgid "• F12: Take a screenshot"
+msgstr ""
+
+#: init.lua
+msgid "Server interaction:"
+msgstr ""
+
+#: init.lua
+msgid "• T: Open chat window (chat requires the “shout” privilege)"
+msgstr ""
+
+#: init.lua
+msgid "• /: Start issuing a server command)"
+msgstr ""
+
+#: init.lua
+msgid "Technical:"
+msgstr ""
+
+#: init.lua
+msgid ""
+"• R: Toggle far view (disables all fog and allows viewing far away, can make "
+"game very slow)"
+msgstr ""
+
+#: init.lua
+msgid "• +: Increase minimal viewing distance"
+msgstr ""
+
+#: init.lua
+msgid "• -: Decrease minimal viewing distance"
+msgstr ""
+
+#: init.lua
+msgid "• F3: Enable/disable fog"
+msgstr ""
+
+#: init.lua
+msgid "• F5: Enable/disable debug screen which also shows your coordinates"
+msgstr ""
+
+#: init.lua
+msgid "• F6: Only useful for developers. Enables/disables profiler"
+msgstr ""
+
+#: init.lua
+msgid "• P: Only useful for developers. Writes current stack traces"
+msgstr ""
+
+#: init.lua
+msgid "Players"
+msgstr ""
+
+#: init.lua
+msgid ""
+"Players (actually: “player characters”) are the characters which users "
+"control."
+msgstr ""
+
+#: init.lua
+msgid ""
+"Players are living beings which occupy a space of about 1×2×1 cubes. They "
+"start with 20 health points (HP) and 10 breath points (BP)."
+msgstr ""
+
+#: init.lua
+msgid ""
+"Players are capable of walking, sneaking, jumping, climbing, swimming, "
+"diving, mining, building, fighting and using tools and blocks."
+msgstr ""
+
+#: init.lua
+msgid ""
+"Players can take damage for a variety of reasons, here are some:\n"
+"• Taking fall damage\n"
+"• Touching a block which causes direct damage\n"
+"• Drowning\n"
+"• Being attacked by another player\n"
+"• Being attacked by a computer enemy"
+msgstr ""
+
+#: init.lua
+msgid ""
+"At a health of 0, the player dies. The player can just respawn in the world."
+msgstr ""
+
+#: init.lua
+msgid ""
+"Other consequences of death depend on the subgame. The player could lose all "
+"items, or lose the round in a competitive game."
+msgstr ""
+
+#: init.lua
+msgid ""
+"Some blocks reduce breath. While being with the head in a block which causes "
+"drowning, the breath points are reduced by 1 for every 2 seconds. When all "
+"breath is gone, the player starts to suffer drowning damage. Breath is "
+"quickly restored in any other block."
+msgstr ""
+
+#: init.lua
+msgid ""
+"Damage can be disabled on any world. Without damage, players are immortal "
+"and health and breath are unimportant."
+msgstr ""
+
+#: init.lua
+msgid ""
+"In multi-player mode, the name of other players is written above their head."
+msgstr ""
+
+#: init.lua
+msgid "Items"
+msgstr ""
+
+#: init.lua
+msgid ""
+"Items are things you can carry along and store in inventories. They can be "
+"used for crafting, smelting, building, mining, and more. Types of items "
+"include blocks, tools, weapons and items only used for crafting."
+msgstr ""
+
+#: init.lua
+msgid ""
+"An item stack is a collection of items of the same type which fits into a "
+"single item slot. Item stacks can be dropped on the ground. Items which drop "
+"into the same coordinates will form an item stack."
+msgstr ""
+
+#: init.lua
+msgid ""
+"Items have several properties, including the following:\n"
+"\n"
+"• Maximum stack size: Number of items which fit on 1 item stack\n"
+"• Pointing range: How close things must be to be pointed while wielding this "
+"item\n"
+"• Group memberships: See “Basics > Groups”\n"
+"• May be used for crafting or cooking"
+msgstr ""
+
+#: init.lua
+msgid "A dropped item stack can be collected by punching it."
+msgstr ""
+
+#: init.lua
+msgid "Tools"
+msgstr ""
+
+#: init.lua
+msgid ""
+"Some items may serve as a tool when wielded. Any item which has some special "
+"use which can be directly used by its wielder is considered a tool."
+msgstr ""
+
+#: init.lua
+msgid ""
+"A common tool in Minetest are, of course, mining tools. These are important "
+"to break all kinds of blocks. Weapons are a kind of tool in Minetest. There "
+"are of course many other possible tools. Special actions of tools are "
+"usually done by left-click or right-click."
+msgstr ""
+
+#: init.lua
+msgid ""
+"When nothing is wielded, players use their hand which may act as tool and "
+"weapon. The hand is capable of collecting dropped items by punching."
+msgstr ""
+
+#: init.lua
+msgid ""
+"Many tools will wear off when using them and may eventually get destroyed. "
+"The damage is displayed in a damage bar below the tool icon. If no damage "
+"bar is shown, the tool is in mint condition. Tools may be repairable by "
+"crafting, see “Basics > Crafting”."
+msgstr ""
+
+#: init.lua
+msgid "Weapons"
+msgstr ""
+
+#: init.lua
+msgid ""
+"Some items are usable as a melee weapon when wielded. Weapons share most of "
+"the properties of tools."
+msgstr ""
+
+#: init.lua
+msgid ""
+"Melee weapons deal damage by punching players and other animate objects. "
+"There are two ways to attack:"
+msgstr ""
+
+#: init.lua
+msgid "• Single punch: Left-click once to deal a single punch"
+msgstr ""
+
+#: init.lua
+msgid ""
+"• Quick punching: Hold down the left mouse button to deal quick repeated "
+"punches"
+msgstr ""
+
+#: init.lua
+msgid "There are two core attributes of melee weapons:"
+msgstr ""
+
+#: init.lua
+msgid ""
+"• Maximum damage: Damage which is dealt after a hit when the weapon was "
+"fully recovered)"
+msgstr ""
+
+#: init.lua
+msgid "• Full punch interval: Time it takes for fully recovering from a punch"
+msgstr ""
+
+#: init.lua
+msgid ""
+"A weapon only deals full damage when it has fully recovered from a previous "
+"punch. Otherwise, the weapon will deal only reduced damage. This means, "
+"quick punching is very fast, but also deals rather low damage. Note the full "
+"punch interval does not limit how fast you can attack."
+msgstr ""
+
+#: init.lua
+msgid ""
+"There is a rule which sometimes makes attacks impossible: Players, animate "
+"objects and weapons belong to damage groups. A weapon only deals damage to "
+"those who share at least one damage group with it. So if you're using the "
+"wrong weapon, you might not deal any damage at all."
+msgstr ""
+
+#: init.lua
+msgid "Pointing"
+msgstr ""
+
+#: init.lua
+msgid ""
+"“Pointing” means looking at something in range with the crosshair. Pointing "
+"is needed for interaction, like mining, punching, using, etc. Pointable "
+"things include blocks, dropped items, players, computer enemies and objects."
+msgstr ""
+
+#: init.lua
+msgid ""
+"To point something, it must be in the pointing range (also just called "
+"“range”) of your wielded item. There's a default range when you are not "
+"wielding anything. A pointed thing will be outlined or highlighted "
+"(depending on your settings). Pointing is not possible with the 3rd person "
+"front camera."
+msgstr ""
+
+#: init.lua
+msgid ""
+"A few things can not be pointed. Most blocks are pointable. A few blocks, "
+"like air, can never be pointed. Other blocks, like liquids can only be "
+"pointed by special items."
+msgstr ""
+
+#: init.lua
+msgid "Camera"
+msgstr ""
+
+#: init.lua
+msgid ""
+"Minetest has 3 different views which determine the way you see the world. "
+"The modes are:\n"
+"\n"
+"• 1: First-person view (default)\n"
+"• 2: Third-person view from behind\n"
+"• 3: Third-person view from the front"
+msgstr ""
+
+#: init.lua
+msgid "You can change the camera mode by pressing [F7]."
+msgstr ""
+
+#: init.lua
+msgid ""
+"There is also Cinematic Mode which can be toggled with [F8]. With Cinematic "
+"Mode enabled, the camera movements become more smooth. Some players don't "
+"like it, it is a matter of taste."
+msgstr ""
+
+#: init.lua
+msgid ""
+"By holding down [Z], you can zoom the view at your crosshair. You need the "
+"“zoom” privilege to do this."
+msgstr ""
+
+#: init.lua
+msgid "• Switch camera mode: [F7]"
+msgstr ""
+
+#: init.lua
+msgid "• Toggle Cinematic Mode: [F8]"
+msgstr ""
+
+#: init.lua
+msgid "• Zoom: [Z]"
+msgstr ""
+
+#: init.lua
+msgid "Blocks"
+msgstr ""
+
+#: init.lua
+msgid ""
+"The world of Minetest is made entirely out of blocks (voxels, to be "
+"precise). Blocks can be added or removed with the correct tools."
+msgstr ""
+
+#: init.lua
+msgid ""
+"Blocks can have a wide range of different properties which determine mining "
+"times, behavior, looks, shape, and much more. Their properties include:"
+msgstr ""
+
+#: init.lua
+msgid ""
+"• Collidable: Collidable blocks can not be passed through; players can walk "
+"on them. Non-collidable blocks can be passed through freely"
+msgstr ""
+
+#: init.lua
+msgid ""
+"• Pointable: Pointable blocks show a wireframe or a halo box when pointed. "
+"But you will just point through non-pointable blocks. Liquids are usually "
+"non-pointable but they can be pointed at by some special tools"
+msgstr ""
+
+#: init.lua
+msgid ""
+"• Mining properties: By which tools it can be mined, how fast and how much "
+"it wears off tools"
+msgstr ""
+
+#: init.lua
+msgid ""
+"• Climbable: While you are at a climbable block, you won't fall and you can "
+"move up and down with the jump and sneak keys"
+msgstr ""
+
+#: init.lua
+msgid "• Drowning damage: See the entry “Basics > Player”"
+msgstr ""
+
+#: init.lua
+msgid "• Liquids: See the entry “Basics > Liquids”"
+msgstr ""
+
+#: init.lua
+msgid ""
+"• Group memberships: Group memberships are used to determine mining "
+"properties, crafting, interactions between blocks and more"
+msgstr ""
+
+#: init.lua
+msgid "Mining"
+msgstr ""
+
+#: init.lua
+msgid ""
+"Mining (or digging) is the process of breaking blocks to remove them. To "
+"mine a block, point it and hold down the left mouse button until it breaks."
+msgstr ""
+
+#: init.lua
+msgid "Short explanation:"
+msgstr ""
+
+#: init.lua
+msgid ""
+"Blocks require a mining tool to be mined. Different blocks are mined by "
+"different mining tools, and some blocks can not be mined by any tool. Blocks "
+"vary in toughness and tools vary in strength. Mining tools will wear off "
+"over time. The mining time and the tool wear depend on the block and the "
+"mining tool. The fastest way to find out how efficient your mining tools are "
+"is by just trying them out on various blocks. Any items you gather by mining "
+"go straight into your inventory."
+msgstr ""
+
+#: init.lua
+msgid "Detailed explanation:"
+msgstr ""
+
+#: init.lua
+msgid ""
+"Mineable blocks have mining properties (based on groups) and a toughness "
+"level. Mining tools have the same properties. Each mining property of a "
+"block also has a rating, while tools can be able to break blocks within a "
+"range of ratings."
+msgstr ""
+
+#: init.lua
+msgid "In order to mine a block, these conditions need to be met:"
+msgstr ""
+
+#: init.lua
+msgid ""
+"• The block and tool share at least one mining property for which they have "
+"a matching rating"
+msgstr ""
+
+#: init.lua
+msgid ""
+"• The tool's toughness level is equal or less than the block's toughness "
+"level"
+msgstr ""
+
+#: init.lua
+msgid ""
+"Example: A block with the mining property “cracky”, rating 3 and toughness "
+"level 0 can only be broken by a tool which is able to break “cracky” blocks "
+"at rating 3 and it must have a toughness level of 0 or larger."
+msgstr ""
+
+#: init.lua
+msgid ""
+"The time it takes to mine a block depends on the ratings and the toughness "
+"levels of both tool and block."
+msgstr ""
+
+#: init.lua
+msgid ""
+"• The base mining time depends on the ratings of the block and the mining "
+"speed of the tool"
+msgstr ""
+
+#: init.lua
+msgid ""
+"• The mining speed of the tool differs for each mining property and its "
+"rating"
+msgstr ""
+
+#: init.lua
+msgid ""
+"• The toughness level further modifies the mining speed for this mining "
+"proeprty"
+msgstr ""
+
+#: init.lua
+msgid ""
+"• A high difference in toughness levels decreases the mining time "
+"considerably"
+msgstr ""
+
+#: init.lua
+msgid ""
+"• If the toughness level difference is 2, the mining time is half of the "
+"base mining time"
+msgstr ""
+
+#: init.lua
+msgid "• If the a difference of 3, the mining time is a third, and so on"
+msgstr ""
+
+#: init.lua
+msgid ""
+"The item help shows the mining times of a tool listed by its mining "
+"properties and its ratings. The mining times are often expressed as a range. "
+"The low number stands for the mining time for toughness level 0 and the high "
+"number for the highest level the tool can mine."
+msgstr ""
+
+#: init.lua
+msgid ""
+"Mining usually wears off tools. Each time you mine a block, your tool takes "
+"some damage until it is destroyed eventually. The wear per mined block "
+"determined by the difference between the tool's toughness level and the "
+"block's toughness level. The higher the difference, the lower the wear. This "
+"means:"
+msgstr ""
+
+#: init.lua
+msgid "• High-level blocks wear off your tools faster"
+msgstr ""
+
+#: init.lua
+msgid "• You can use high-level tools to compensate this"
+msgstr ""
+
+#: init.lua
+msgid ""
+"• The highest wear is caused when the level of both tool and block are equal"
+msgstr ""
+
+#: init.lua
+msgid ""
+"After mining, a block may leave a “drop” behind. This is a number of items "
+"you get after mining. Most commonly, you will get the block itself. There "
+"are other possibilities for a drop which depends on the block type. The "
+"following drops are possible:"
+msgstr ""
+
+#: init.lua
+msgid "• Always drops itself (the usual case)"
+msgstr ""
+
+#: init.lua
+msgid "• Always drops the same items"
+msgstr ""
+
+#: init.lua
+msgid "• Drops items based on probability"
+msgstr ""
+
+#: init.lua
+msgid "• Drops nothing"
+msgstr ""
+
+#: init.lua
+msgid ""
+"The drop goes directly into your inventory, unless there's no more space "
+"left. In that case, the items literally drop on the floor."
+msgstr ""
+
+#: init.lua
+msgid "Building"
+msgstr ""
+
+#: init.lua
+msgid ""
+"Almost all blocks can be built (or placed). Building is very simple and has "
+"no delay."
+msgstr ""
+
+#: init.lua
+msgid ""
+"To build your wielded block, point at a block in the world and right-click. "
+"If this is not possible because the pointed block has a special right-click "
+"action, hold down the sneak key before right-clicking."
+msgstr ""
+
+#: init.lua
+msgid ""
+"Blocks can almost always be built at pointable blocks. One exception are "
+"blocks attached to the floor; these can only be built on the floor."
+msgstr ""
+
+#: init.lua
+msgid ""
+"Normally, blocks are built in front of the pointed side of the pointed "
+"block. A few blocks are different: When you try to build at them, they are "
+"replaced."
+msgstr ""
+
+#: init.lua
+msgid "Liquids"
+msgstr ""
+
+#: init.lua
+msgid ""
+"Liquids are special dynamic blocks. Liquids like to spread and flow to their "
+"surrounding blocks. Players can swim and drown in them."
+msgstr ""
+
+#: init.lua
+msgid ""
+"Liquids usually come in two forms: In source form (S) and in flowing form "
+"(F)."
+msgstr ""
+
+#: init.lua
+msgid ""
+"Liquid sources have the shape of a full cube. A liquid source will generate "
+"flowing liquids around it from time to time, and, if the liquid is "
+"renewable, it also generates liquid sources. A liquid source can sustain "
+"itself. A long it is left alone, a liquid source will normally keep its "
+"place and does not drain out."
+msgstr ""
+
+#: init.lua
+msgid ""
+"Flowing liquids take a sloped form. Flowing liquids spread around the world "
+"until they drain. A flowing liquid can not sustain itself and always comes "
+"from a liquid source, either directly or indirectly. Without a liquid "
+"source, a flowing liquid will eventually drain out and disappear."
+msgstr ""
+
+#: init.lua
+msgid "All liquids share the following properties:"
+msgstr ""
+
+#: init.lua
+msgid "• All properties of blocks (including drowning damage"
+msgstr ""
+
+#: init.lua
+msgid "• Renewability: Renewable liquids can create new sources"
+msgstr ""
+
+#: init.lua
+msgid ""
+"• Flowing range: How many flowing liquids are created at maximum per liquid "
+"source, it determines how far the liquid will spread. Possible are ranges "
+"from 0 to 8. At 0, no flowing liquids will be created. Image 5 shows a "
+"liquid of flowing range 2"
+msgstr ""
+
+#: init.lua
+msgid ""
+"• Viscosity: How slow players move through it and how slow the liquid spreads"
+msgstr ""
+
+#: init.lua
+msgid ""
+"Renewable liquids create new liquid sources at open spaces (image 2). A new "
+"liquid source is created when:\n"
+"• Two renewable liquid blocks of the same type touch each other diagonally\n"
+"• These blocks are also on the same height\n"
+"• One of the two “corners” is open space which allows liquids to flow in"
+msgstr ""
+
+#: init.lua
+msgid ""
+"When those criteria are met, the open space is filled with a new liquid "
+"source of the same type (image 3)."
+msgstr ""
+
+#: init.lua
+msgid ""
+"Swimming in a liquid is fairly straightforward: The usual direction keys for "
+"basic movement, the jump key for rising and the sneak key for sinking."
+msgstr ""
+
+#: init.lua
+msgid "The physics for swimming and diving in a liquid are:"
+msgstr ""
+
+#: init.lua
+msgid "• The higher the viscosity, the slower you move"
+msgstr ""
+
+#: init.lua
+msgid "• If you rest, you'll slowly sink"
+msgstr ""
+
+#: init.lua
+msgid "• There is no fall damage for falling into a liquid as such"
+msgstr ""
+
+#: init.lua
+msgid ""
+"• If you fall into a liquid, you will be slowed down on impact (but don't "
+"stop instantly). Your impact depth is determined by your speed and the "
+"liquid viscosity. For a safe high drop into a liquid, make sure there is "
+"enough liquid above the ground, otherwise you might hit the ground and take "
+"fall damage"
+msgstr ""
+
+#: init.lua
+msgid ""
+"Liquids are often not pointable. But some special items are able to point "
+"all liquids."
+msgstr ""
+
+#: init.lua
+msgid "Crafting"
+msgstr ""
+
+#: init.lua
+msgid "Crafting is the task of combining several items to form a new item."
+msgstr ""
+
+#: init.lua
+msgid ""
+"To craft something, you need one or more items, a crafting grid (C) and a "
+"crafting recipe. A crafting grid is like a normal inventory which can also "
+"be used for crafting. Items need to be put in a certain pattern into the "
+"crafting grid. Next to the crafting grid is an output slot (O). Here the "
+"result will appear when you placed items correctly. This is just a preview, "
+"not the actual item. Crafting grids can come in different sizes which limits "
+"the possible recipes you can craft."
+msgstr ""
+
+#: init.lua
+msgid ""
+"To complete the craft, take the result item from the output slot, which will "
+"consume items from the crafting grid and creates a new item. It is not "
+"possible to place items into the output slot."
+msgstr ""
+
+#: init.lua
+msgid ""
+"A description on how to craft an item is called a “crafting recipe”. You "
+"need this knowledge to craft. There are multiple ways to learn crafting "
+"recipes. One way is by using a crafting guide, which contains a list of "
+"available crafting recipes. Some subgames provide crafting guides. There are "
+"also some mods which you can download online for installing a crafting "
+"guide. Another way is by reading the online manual of the subgame (if one is "
+"available)."
+msgstr ""
+
+#: init.lua
+msgid ""
+"Crafting recipes consist of at least one input item and exactly one stack of "
+"output items. When performing a single craft, it will consume exactly one "
+"item from each stack of the crafting grid, unless the crafting recipe "
+"defines replacements."
+msgstr ""
+
+#: init.lua
+msgid ""
+"There are multiple types of crafting recipes:\n"
+"\n"
+"• Shaped (image 2): Items need to be placed in a particular shape\n"
+"• Shapeless (images 3 and 4): Items need to be placed somewhere in input "
+"(both images show the same recipe)\n"
+"• Cooking: Explained in “Basics > Cooking”\n"
+"• Repairing (image 5): Place two damaged tools into the crafting grid "
+"anywhere to get a tool which is repaired by a certain percentage. This "
+"recipe may not be available in all subgames"
+msgstr ""
+
+#: init.lua
+msgid ""
+"In some crafting recipes, some input items do not need to be a concrete "
+"item, instead they need to be a member of a group (see “Basics > Groups”). "
+"These recipes offer a bit more freedom in the input items. Images 6-8 show "
+"the same group-based recipe. Here, 8 items of the “stone” group are "
+"required, which is true for all of the shown items."
+msgstr ""
+
+#: init.lua
+msgid ""
+"Rarely, crafting recipes have replacements. This means, whenever you perform "
+"a craft, some items in the crafting grid will not be consumed, but instead "
+"will be replaced by another item."
+msgstr ""
+
+#: init.lua
+msgid "Cooking"
+msgstr ""
+
+#: init.lua
+msgid ""
+"Cooking (or smelting) is a form of crafting which does not involve a "
+"crafting grid. Cooking is done with a special block (like a furnace), an "
+"cookable item, a fuel item and time in order to yield a new item."
+msgstr ""
+
+#: init.lua
+msgid ""
+"Each fuel item has a burning time. This is the time a single item of the "
+"fuel keeps a furnace burning."
+msgstr ""
+
+#: init.lua
+msgid ""
+"Each cookable item requires time to be cooked. This time is specific to the "
+"item type and the item must be “on fire” for the whole cooking time to "
+"actually yield the result."
+msgstr ""
+
+#: init.lua
+msgid "Hotbar"
+msgstr ""
+
+#: init.lua
+msgid ""
+"At the bottom of the screen you see some squares. This is called the "
+"“hotbar”. The hotbar allows you to quickly access the first items from your "
+"player inventory."
+msgstr ""
+
+#: init.lua
+msgid ""
+"You can change the selected item with the mouse wheel or the number keys."
+msgstr ""
+
+#: init.lua
+msgid "• Select previous item in hotbar: [Mouse wheel up]"
+msgstr ""
+
+#: init.lua
+msgid "• Select next item in hotbar: [Mouse wheel down]"
+msgstr ""
+
+#: init.lua
+msgid "• Select item in hotbar directly: [0]-[9]"
+msgstr ""
+
+#: init.lua
+msgid "The selected item is also your wielded item."
+msgstr ""
+
+#: init.lua
+msgid "Minimap"
+msgstr ""
+
+#: init.lua
+msgid ""
+"Press [F9] to make a minimap appear on the top right. The minimap helps you "
+"to find your way around the world. Press it again to select different "
+"minimap modes and zoom levels. The minimap also shows the positions of other "
+"players."
+msgstr ""
+
+#: init.lua
+msgid "There are 2 minimap modes and 3 zoom levels."
+msgstr ""
+
+#: init.lua
+msgid ""
+"Surface mode (image 1) is a top-down view of the world, roughly resembling "
+"the colors of the blocks this world is made of. It only shows the topmost "
+"blocks, everything below is hidden, like a satellite photo. Surface mode is "
+"useful if you got lost."
+msgstr ""
+
+#: init.lua
+msgid ""
+"Radar mode (image 2) is more complicated. It displays the “denseness” of the "
+"area around you and changes with your height. Roughly, the more green an "
+"area is, the less “dense” it is. Black areas have many blocks. Use the radar "
+"to find caverns, hidden areas, walls and more. The rectangular shapes in "
+"image 2 clearly expose the position of a dungeon."
+msgstr ""
+
+#: init.lua
+msgid ""
+"There are also two different rotation modes. In “square mode”, the rotation "
+"of the minimap is fixed. If you press [Shift]+[F9] to switch to “circle "
+"mode”, the minimap will instead rotate with your looking direction, so “up” "
+"is always your looking direction."
+msgstr ""
+
+#: init.lua
+msgid "In some subgames, the minimap may be disabled."
+msgstr ""
+
+#: init.lua
+msgid "• Toggle minimap mode: [F9]"
+msgstr ""
+
+#: init.lua
+msgid "• Toggle minimap rotation mode: [Shift]+[F9]"
+msgstr ""
+
+#: init.lua
+msgid ""
+"Inventories are used to store item stacks. There are other uses, such as "
+"crafting. An inventory consists of a rectangular grid of item slots. Each "
+"item slot can either be empty or hold one item stack. Item stacks can be "
+"moved freely between most slots."
+msgstr ""
+
+#: init.lua
+msgid ""
+"You have your own inventory which is called your “player inventory”, you can "
+"open it with the inventory key (default: [I]). The first inventory slots are "
+"also used as slots in your hotbar."
+msgstr ""
+
+#: init.lua
+msgid "Blocks can also have their own inventory, e.g. chests and furnaces."
+msgstr ""
+
+#: init.lua
+msgid "Inventory controls:"
+msgstr ""
+
+#: init.lua
+msgid ""
+"Taking: You can take items from an occupied slot if the cursor holds nothing."
+msgstr ""
+
+#: init.lua
+msgid "• Left click: take entire item stack"
+msgstr ""
+
+#: init.lua
+msgid "• Right click: take half from the item stack (rounded up)"
+msgstr ""
+
+#: init.lua
+msgid "• Middle click: take 10 items from the item stack"
+msgstr ""
+
+#: init.lua
+msgid ""
+"Putting: You can put items onto a slot if the cursor holds 1 or more items "
+"and the slot is either empty or contains an item stack of the same item type."
+msgstr ""
+
+#: init.lua
+msgid "• Left click: put entire item stack"
+msgstr ""
+
+#: init.lua
+msgid "• Right click: put 1 item of the item stack"
+msgstr ""
+
+#: init.lua
+msgid "• Middle click: put 10 items of the item stack"
+msgstr ""
+
+#: init.lua
+msgid ""
+"Exchanging: You can exchange items if the cursor holds 1 or more items and "
+"the destination slot is occupied by a different item type."
+msgstr ""
+
+#: init.lua
+msgid "• Click: exchange item stacks"
+msgstr ""
+
+#: init.lua
+msgid ""
+"Throwing away: If you hold an item stack and click with it somewhere outside "
+"the menu, the item stack gets thrown away into the environment."
+msgstr ""
+
+#: init.lua
+msgid ""
+"Quick transfer: You can quickly transfer an item stack to/from the player "
+"inventory to/from another item's inventory slot like a furnace, chest, or "
+"any other item with an inventory slot when that item's inventory is "
+"accessed. The target inventory is generally the most relevant inventory in "
+"this context."
+msgstr ""
+
+#: init.lua
+msgid "• Sneak+Left click: Automatically transfer item stack"
+msgstr ""
+
+#: init.lua
+msgid "Online help"
+msgstr ""
+
+#: init.lua
+msgid "You may want to check out these online resources related to Minetest:"
+msgstr ""
+
+#: init.lua
+msgid "Official homepage of Minetest: <http://minetest.net/>"
+msgstr ""
+
+#: init.lua
+msgid "The main place to find the most recent version of Minetest."
+msgstr ""
+
+#: init.lua
+msgid "Community wiki: <http://wiki.minetest.net/>"
+msgstr ""
+
+#: init.lua
+msgid ""
+"A community-based documentation website for Minetest. Anyone with an account "
+"can edit it! It also features a documentation of Minetest Game."
+msgstr ""
+
+#: init.lua
+msgid "Web forums: <http://forums.minetest.net/>"
+msgstr ""
+
+#: init.lua
+msgid ""
+"A web-based discussion platform where you can discuss everything related to "
+"Minetest. This is also a place where player-made mods and subgames are "
+"published and discussed. The discussions are mainly in English, but there is "
+"also space for discussion in other languages."
+msgstr ""
+
+#: init.lua
+msgid "Chat: <irc://irc.freenode.net#minetest>"
+msgstr ""
+
+#: init.lua
+msgid ""
+"A generic Internet Relay Chat channel for everything related to Minetest "
+"where people can meet to discuss in real-time. If you do not understand IRC, "
+"see the Community Wiki for help."
+msgstr ""
+
+#: init.lua
+msgid "Groups"
+msgstr ""
+
+#: init.lua
+msgid ""
+"Items, players and objects (animate and inanimate) can be members of any "
+"number of groups. Groups serve multiple purposes:"
+msgstr ""
+
+#: init.lua
+msgid ""
+"• Crafting recipes: Slots in a crafting recipe may not require a specific "
+"item, but instead an item which is a member of a particular group, or "
+"multiple groups"
+msgstr ""
+
+#: init.lua
+msgid ""
+"• Digging times: Diggable blocks belong to groups which are used to "
+"determine digging times. Mining tools are capable of digging blocks "
+"belonging to certain groups"
+msgstr ""
+
+#: init.lua
+msgid ""
+"• Block behavior: Blocks may show a special behaviour and interact with "
+"other blocks when they belong to a particular group"
+msgstr ""
+
+#: init.lua
+msgid ""
+"• Damage and armor: Objects and players have armor groups, weapons have "
+"damage groups. These groups determine damage. See also: “Basics > Weapons”"
+msgstr ""
+
+#: init.lua
+msgid "• Other uses"
+msgstr ""
+
+#: init.lua
+msgid ""
+"In the item help, many important groups are usually mentioned and explained."
+msgstr ""
+
+#: init.lua
+msgid "Glossary"
+msgstr ""
+
+#: init.lua
+msgid "This is a list of commonly used terms in Minetest:"
+msgstr ""
+
+#: init.lua
+msgid "Controls:"
+msgstr ""
+
+#: init.lua
+msgid "• Wielding: Holding an item in hand"
+msgstr ""
+
+#: init.lua
+msgid "• Pointing: Looking with the crosshair at something in range"
+msgstr ""
+
+#: init.lua
+msgid "• Dropping: Throwing an item or item stack to the ground"
+msgstr ""
+
+#: init.lua
+msgid "• Punching: Attacking with left-click, is also used on blocks"
+msgstr ""
+
+#: init.lua
+msgid "• Sneaking: Walking slowly while (usually) avoiding to fall over edges"
+msgstr ""
+
+#: init.lua
+msgid "• Climbing: Moving up or down a climbable block"
+msgstr ""
+
+#: init.lua
+msgid "Blocks:"
+msgstr ""
+
+#: init.lua
+msgid "• Block: Cubes that the worlds are made of"
+msgstr ""
+
+#: init.lua
+msgid "• Mining/digging: Using a mining tool to break a block"
+msgstr ""
+
+#: init.lua
+msgid "• Building/placing: Putting a block somewhere"
+msgstr ""
+
+#: init.lua
+msgid "• Drop: Items you get after mining a block"
+msgstr ""
+
+#: init.lua
+msgid "• Using a block: Right-clicking a block to access its special function"
+msgstr ""
+
+#: init.lua
+msgid "Items:"
+msgstr ""
+
+#: init.lua
+msgid "• Item: A single thing that players can possess"
+msgstr ""
+
+#: init.lua
+msgid "• Item stack: A collection of items of the same kind"
+msgstr ""
+
+#: init.lua
+msgid "• Maximum stack size: Maximum amount of items in an item stack"
+msgstr ""
+
+#: init.lua
+msgid "• Slot / inventory slot: Can hold one item stack"
+msgstr ""
+
+#: init.lua
+msgid "• Inventory: Provides several inventory slots for storage"
+msgstr ""
+
+#: init.lua
+msgid "• Player inventory: The main inventory of a player"
+msgstr ""
+
+#: init.lua
+msgid ""
+"• Tool: An item which you can use to do special things with when wielding"
+msgstr ""
+
+#: init.lua
+msgid "• Range: How far away things can be to be pointed by an item"
+msgstr ""
+
+#: init.lua
+msgid "• Mining tool: A tool which allows to break blocks"
+msgstr ""
+
+#: init.lua
+msgid "• Craftitem: An item which is (primarily or only) used for crafting"
+msgstr ""
+
+#: init.lua
+msgid "Gameplay:"
+msgstr ""
+
+#: init.lua
+msgid "• “heart”: A single health symbol, indicates 2 HP"
+msgstr ""
+
+#: init.lua
+msgid "• “bubble”: A single breath symbol, indicates 1 BP"
+msgstr ""
+
+#: init.lua
+msgid "• HP: Hit point (equals half 1 “heart”)"
+msgstr ""
+
+#: init.lua
+msgid "• BP: Breath point, indicates breath when diving"
+msgstr ""
+
+#: init.lua
+msgid "• Mob: Computer-controlled enemy"
+msgstr ""
+
+#: init.lua
+msgid "• Crafting: Combining multiple items to create new ones"
+msgstr ""
+
+#: init.lua
+msgid "• Crafting guide: A helper which shows available crafting recipes"
+msgstr ""
+
+#: init.lua
+msgid "• Spawning: Appearing in the world"
+msgstr ""
+
+#: init.lua
+msgid "• Respawning: Appearing again in the world after death"
+msgstr ""
+
+#: init.lua
+msgid "• Group: Puts similar things together, often affects gameplay"
+msgstr ""
+
+#: init.lua
+msgid "• noclip: Allows to fly through walls"
+msgstr ""
+
+#: init.lua
+msgid "Interface"
+msgstr ""
+
+#: init.lua
+msgid "• Hotbar: Inventory slots at the bottom"
+msgstr ""
+
+#: init.lua
+msgid ""
+"• Statbar: Indicator made out of half-symbols, used for health and breath"
+msgstr ""
+
+#: init.lua
+msgid "• Minimap: The map or radar at the top right"
+msgstr ""
+
+#: init.lua
+msgid "• Crosshair: Seen in the middle, used to point at things"
+msgstr ""
+
+#: init.lua
+msgid "Online multiplayer:"
+msgstr ""
+
+#: init.lua
+msgid ""
+"• PvP: Player vs Player. If active, players can deal damage to each other"
+msgstr ""
+
+#: init.lua
+msgid ""
+"• Griefing: Destroying the buildings of other players against their will"
+msgstr ""
+
+#: init.lua
+msgid ""
+"• Protection: Mechanism to own areas of the world, which only allows the "
+"owners to modify blocks inside"
+msgstr ""
+
+#: init.lua
+msgid "Technical terms:"
+msgstr ""
+
+#: init.lua
+msgid "• Minetest: This game engine"
+msgstr ""
+
+#: init.lua
+msgid "• Minetest Game: A subgame for Minetest by the Minetest developers"
+msgstr ""
+
+#: init.lua
+msgid ""
+"• Subgame: A complete playing experience to be used in Minetest; such as a "
+"game or sandbox or similar"
+msgstr ""
+
+#: init.lua
+msgid ""
+"• Mod: A single subsystem which adds or modifies functionality; is the basic "
+"building block of subgames and can be used to further enhance or modify them"
+msgstr ""
+
+#: init.lua
+msgid "• Privilege: Allows a player to do something"
+msgstr ""
+
+#: init.lua
+msgid "• Node: Other word for “block”"
+msgstr ""
+
+#: init.lua
+msgid "Settings"
+msgstr ""
+
+#: init.lua
+msgid ""
+"There is a large variety of settings to configure Minetest. Pretty much "
+"every aspect can be changed that way."
+msgstr ""
+
+#: init.lua
+msgid "These are a few of the most important gameplay settings:"
+msgstr ""
+
+#: init.lua
+msgid ""
+"• Damage enabled (enable_damage): Enables the health and breath attributes "
+"for all players. If disabled, players are immortal"
+msgstr ""
+
+#: init.lua
+msgid ""
+"• Creative Mode (creative_mode): Enables sandbox-style gameplay focusing on "
+"creativity rather than a challenging gameplay. The meaning depends on the "
+"subgame; usual changes are: Reduced dig times, easy access to almost all "
+"items, tools never wear off, etc."
+msgstr ""
+
+#: init.lua
+msgid ""
+"• PvP (enable_pvp): Short for “Player vs Player”. If enabled, players can "
+"deal damage to each other"
+msgstr ""
+
+#: init.lua
+msgid ""
+"For a full list of all available settings, use the “Advanced settings” "
+"dialog in the main menu."
+msgstr ""
+
+#: init.lua
+msgid "Movement modes"
+msgstr ""
+
+#: init.lua
+msgid ""
+"If you have the required privileges, you can use up to three special "
+"movement modes. Using these may be considered cheating."
+msgstr ""
+
+#: init.lua
+msgid "Fast mode:"
+msgstr ""
+
+#: init.lua
+msgid ""
+"• Description: Allows you to move much faster. Hold down the the “Use” key "
+"[E] to move faster. In the client configuration, you can further customize "
+"fast mode."
+msgstr ""
+
+#: init.lua
+msgid "• Default key: [J]"
+msgstr ""
+
+#: init.lua
+msgid "• Required privilege: fast"
+msgstr ""
+
+#: init.lua
+msgid "Fly mode:"
+msgstr ""
+
+#: init.lua
+msgid ""
+"• Description: Gravity doesn't affect you and you can move freely in all "
+"directions. Use the jump key to rise and the sneak key to sink."
+msgstr ""
+
+#: init.lua
+msgid "• Default key: [K]"
+msgstr ""
+
+#: init.lua
+msgid "• Required privilege: fly"
+msgstr ""
+
+#: init.lua
+msgid "Noclip mode:"
+msgstr ""
+
+#: init.lua
+msgid ""
+"• Description: Allows you to move through walls. Only works when fly mode is "
+"enabled, too."
+msgstr ""
+
+#: init.lua
+msgid "• Default key: [H]"
+msgstr ""
+
+#: init.lua
+msgid "• Required privilege: noclip"
+msgstr ""
+
+#: init.lua
+msgid "Console"
+msgstr ""
+
+#: init.lua
+msgid ""
+"With [F10] you can open and close the console. The main use of the console "
+"is to show the chat log and enter chat messages or server commands."
+msgstr ""
+
+#: init.lua
+msgid ""
+"Using the chat or server command key also opens the console, but it is "
+"smaller and will be closed after you sent a message."
+msgstr ""
+
+#: init.lua
+msgid ""
+"Use the chat to communicate with other players. This requires you to have "
+"the “shout” privilege."
+msgstr ""
+
+#: init.lua
+msgid ""
+"Just type in the message and hit [Enter]. Public chat messages can not begin "
+"with “/”."
+msgstr ""
+
+#: init.lua
+msgid ""
+"You can send private messages: Say “/msg <player> <message>” in chat to send "
+"“<message>” which can only be seen by <player>."
+msgstr ""
+
+#: init.lua
+msgid "There are some special controls for the console:"
+msgstr ""
+
+#: init.lua
+msgid "• [F10] Open/close console"
+msgstr ""
+
+#: init.lua
+msgid "• [Enter]: Send message or command"
+msgstr ""
+
+#: init.lua
+msgid "• [Tab]: Try to auto-complete a partially-entered player name"
+msgstr ""
+
+#: init.lua
+msgid "• [Ctrl]+[Left]: Move cursor to the beginning of the previous word"
+msgstr ""
+
+#: init.lua
+msgid "• [Ctrl]+[Right]: Move cursor to the beginning of the next word"
+msgstr ""
+
+#: init.lua
+msgid "• [Ctrl]+[Backspace]: Delete previous word"
+msgstr ""
+
+#: init.lua
+msgid "• [Ctrl]+[Delete]: Delete next word"
+msgstr ""
+
+#: init.lua
+msgid "• [Ctrl]+[U]: Delete all text before the cursor"
+msgstr ""
+
+#: init.lua
+msgid "• [Ctrl]+[K]: Delete all text after the cursor"
+msgstr ""
+
+#: init.lua
+msgid "• [Page up]: Scroll up"
+msgstr ""
+
+#: init.lua
+msgid "• [Page down]: Scroll down"
+msgstr ""
+
+#: init.lua
+msgid ""
+"There is also an input history. Minetest saves your previous console inputs "
+"which you can quickly access later:"
+msgstr ""
+
+#: init.lua
+msgid "• [Up]: Go to previous entry in history"
+msgstr ""
+
+#: init.lua
+msgid "• [Down]: Go to next entry in history"
+msgstr ""
+
+#: init.lua
+msgid "Server commands"
+msgstr ""
+
+#: init.lua
+msgid ""
+"Server commands (also called “chat commands”) are little helpers for "
+"advanced users. You don't need to use these commands when playing. But they "
+"might come in handy to perform some more technical tasks. Server commands "
+"work both in multi-player and single-player mode."
+msgstr ""
+
+#: init.lua
+msgid ""
+"Server commands can be entered by players using the chat to perform a "
+"special server action. There are a few commands which can be issued by "
+"everyone, but some commands only work if you have certain privileges granted "
+"on the server. There is a small set of basic commands which are always "
+"available, other commands can be added by mods."
+msgstr ""
+
+#: init.lua
+msgid ""
+"To issue a command, simply type it like a chat message or press Minetest's "
+"command key (default: [/]). All commands have to begin with “/”, for example "
+"“/mods”. The Minetest command key does the same as the chat key, except that "
+"the slash is already entered."
+msgstr ""
+
+#: init.lua
+msgid ""
+"Commands may or may not give a response in the chat log, but errors will "
+"generally be shown in the chat. Try it for yourselves: Close this window and "
+"type in the “/mods” command. This will give you the list of available mods "
+"on this server."
+msgstr ""
+
+#: init.lua
+msgid ""
+"“/help all” is a very important command: You get a list of all available "
+"commands on the server, a short explanation and the allowed parameters. This "
+"command is also important because the available commands often differ per "
+"server."
+msgstr ""
+
+#: init.lua
+msgid "Commands are followed by zero or more parameters."
+msgstr ""
+
+#: init.lua
+msgid ""
+"In the command reference, you see some placeholders which you need to "
+"replace with an actual value. Here's an explanation:"
+msgstr ""
+
+#: init.lua
+msgid ""
+"• Text in greater-than and lower-than signs (e.g. “<param>”): Placeholder "
+"for a parameter"
+msgstr ""
+
+#: init.lua
+msgid ""
+"• Anything in square brackets (e.g. “[text]”) is optional and can be omitted"
+msgstr ""
+
+#: init.lua
+msgid ""
+"• Pipe or slash (e.g. “text1 | text2 | text3”): Alternation. One of multiple "
+"texts must be used (e.g. “text2”)"
+msgstr ""
+
+#: init.lua
+msgid ""
+"• Parenthesis: (e.g. “(word1 word2) | word3”): Groups multiple words "
+"together, used for alternations"
+msgstr ""
+
+#: init.lua
+msgid "• Everything else is to be read as literal text"
+msgstr ""
+
+#: init.lua
+msgid "Here are some examples to illustrate the command syntax:"
+msgstr ""
+
+#: init.lua
+msgid "• /mods: No parameters. Just enter “/mods”"
+msgstr ""
+
+#: init.lua
+msgid ""
+"• /me <action>: 1 parameter. You have to enter “/me ” followed by any text, "
+"e.g. “/me orders pizza”"
+msgstr ""
+
+#: init.lua
+msgid ""
+"• /give <name> <ItemString>: Two parameters. Example: “/give Player default:"
+"apple”"
+msgstr ""
+
+#: init.lua
+msgid ""
+"• /help [all|privs|<cmd>]: Valid inputs are “/help”, “/help all”, “/help "
+"privs”, or “/help ” followed by a command name, like “/help time”"
+msgstr ""
+
+#: init.lua
+msgid ""
+"• /spawnentity <EntityName> [<X>,<Y>,<Z>]: Valid inputs include “/"
+"spawnentity boats:boat” and “/spawnentity boats:boat 0,0,0”"
+msgstr ""
+
+#: init.lua
+msgid "Some final remarks:"
+msgstr ""
+
+#: init.lua
+msgid ""
+"• For /give and /giveme, you need an itemstring. This is an internally used "
+"unique item identifier which you may find in the item help if you have the "
+"“give” or “debug” privilege"
+msgstr ""
+
+#: init.lua
+msgid "• For /spawnentity you need an entity name, which is another identifier"
+msgstr ""
+
+#: init.lua
+msgid "Privileges"
+msgstr ""
+
+#: init.lua
+msgid ""
+"Each player has a set of privileges, which differs from server to server. "
+"Your privileges determine what you can and can't do. Privileges can be "
+"granted and revoked from other players by any player who has the privilege "
+"called “privs”."
+msgstr ""
+
+#: init.lua
+msgid ""
+"On a multiplayer server with the default configuration, new players start "
+"with the privileges called “interact” and “shout”. The “interact” privilege "
+"is required for the most basic gameplay actions such as building, mining, "
+"using, etc. The “shout” privilege allows to chat."
+msgstr ""
+
+#: init.lua
+msgid ""
+"There is a small set of core privileges which you'll find on every server, "
+"other privileges might be added by mods."
+msgstr ""
+
+#: init.lua
+msgid "To view your own privileges, issue the server command “/privs”."
+msgstr ""
+
+#: init.lua
+msgid "Here are a few basic privilege-related commands:"
+msgstr ""
+
+#: init.lua
+msgid "• /privs: Lists your privileges"
+msgstr ""
+
+#: init.lua
+msgid "• /privs <player>: Lists the privileges of <player>"
+msgstr ""
+
+#: init.lua
+msgid "• /help privs: Shows a list and description about all privileges"
+msgstr ""
+
+#: init.lua
+msgid "Players with the “privs” privilege can modify privileges at will:"
+msgstr ""
+
+#: init.lua
+msgid "• /grant <player> <privilege>: Grant <privilege> to <player>"
+msgstr ""
+
+#: init.lua
+msgid "• /revoke <player> <privilege>: Revoke <privilege> from <player>"
+msgstr ""
+
+#: init.lua
+msgid ""
+"In single-player mode, you can use “/grant singleplayer all” to unlock all "
+"abilities (which is often considered cheating)."
+msgstr ""
+
+#: init.lua
+msgid "Light"
+msgstr ""
+
+#: init.lua
+msgid ""
+"As the world is entirely block-based, so is the light in the world. Each "
+"block has its own brightness. The brightness of a block is expressed in a "
+"“light level” which ranges from 0 (total darkness) to 15 (as bright as the "
+"sun)."
+msgstr ""
+
+#: init.lua
+msgid "There are two types of light: Sunlight and artificial light."
+msgstr ""
+
+#: init.lua
+msgid ""
+"Artificial light is emitted by luminous blocks. Artificial light has a light "
+"level from 1-14."
+msgstr ""
+
+#: init.lua
+msgid ""
+"Sunlight is the brightest light and always goes perfectly straight down from "
+"the sky at each time of the day. blocks. At night, the sunlight will become "
+"moonlight instead, which still provides a small amount of light. The light "
+"level of sunlight is 15."
+msgstr ""
+
+#: init.lua
+msgid "Blocks have 3 levels of transparency:"
+msgstr ""
+
+#: init.lua
+msgid ""
+"• Transparent: Sunlight goes through limitless, artificial light goes "
+"through with losses"
+msgstr ""
+
+#: init.lua
+msgid ""
+"• Semi-transparent: Sunlight and artificial light go through with losses"
+msgstr ""
+
+#: init.lua
+msgid "• Opaque: No light passes through"
+msgstr ""
+
+#: init.lua
+msgid ""
+"Artificial light will lose one level of brightness for each transparent or "
+"semi-transparent block it passes through, until only darkness remains (image "
+"1)."
+msgstr ""
+
+#: init.lua
+msgid ""
+"Sunlight will preserve its brightness as long it only passes fully "
+"transparent blocks. When it passes through a semi-transparent block, it "
+"turns to artificial light. Image 2 shows the difference."
+msgstr ""
+
+#: init.lua
+msgid ""
+"Note that “transparency” here only means that the block is able to carry "
+"brightness from its neighboring blocks. It is possible for a block to be "
+"transparent to light but you can't see trough the other side."
+msgstr ""
+
+#: init.lua
+msgid "Coordinates"
+msgstr ""
+
+#: init.lua
+msgid ""
+"The Minetest world is a large cube. And because of this, a position in the "
+"world can be easily expressed with Cartesian coordinates. That is, for each "
+"position in the world, there are 3 values X, Y and Z."
+msgstr ""
+
+#: init.lua
+msgid "Like this: (5, 45, -12)"
+msgstr ""
+
+#: init.lua
+msgid ""
+"This refers to the position where X=5, Y=45 and Z=-12. The 3 letters are "
+"called “axes”: Y is for the height. X and Z are for the horizontal position."
+msgstr ""
+
+#: init.lua
+msgid "The values for X, Y and Z work like this:"
+msgstr ""
+
+#: init.lua
+msgid "• If you go up, Y increases"
+msgstr ""
+
+#: init.lua
+msgid "• If you go down, Y decreases"
+msgstr ""
+
+#: init.lua
+msgid "• If you follow the sun, X increases"
+msgstr ""
+
+#: init.lua
+msgid "• If you go to the reverse direction, X decreases"
+msgstr ""
+
+#: init.lua
+msgid "• Follow the sun, then go right: Z increases"
+msgstr ""
+
+#: init.lua
+msgid "• Follow the sun, then go left: Z decreases"
+msgstr ""
+
+#: init.lua
+msgid "• The side length of a full cube is 1"
+msgstr ""
+
+#: init.lua
+msgid ""
+"You can view your current position in the debug screen (open with [F5]). "
+"This is considered cheating in some games."
+msgstr ""
