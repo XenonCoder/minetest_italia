@@ -606,3 +606,7 @@ minetest.register_on_punchplayer(function(player, hitter)
 	end)
 
 end)
+
+if minetest.settings:get("log_mods") then
+	minetest.log("action", "[Mod] "..title.." ["..version.."] ["..mname.."] Loaded...")
+end
