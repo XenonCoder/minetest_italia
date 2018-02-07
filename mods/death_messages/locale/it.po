@@ -1,5 +1,5 @@
 # DEATH MESSAGES ITALIAN LOCALE FILE.
-# Copyright (C) 2018 EvergreenTree
+# Copyright (C) 2016 EvergreenTree
 # This file is distributed under the same license as the Death Messages package.
 # Hamlet <h4mlet@riseup.net>, 2018.
 #
@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Death Messages v0.2.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-30 21:43+0100\n"
-"PO-Revision-Date: 2018-01-30 22:33+0100\n"
+"POT-Creation-Date: 2018-02-07 12:26+0100\n"
+"PO-Revision-Date: 2018-02-07 13:20+0100\n"
 "Last-Translator: Hamlet <h4mlet@riseup.net>\n"
 "Language-Team: \n"
 "Language: it\n"
@@ -19,72 +19,12 @@ msgstr ""
 "X-Generator: Poedit 1.6.10\n"
 
 #: init.lua
-msgid " melted into a ball of radioactivity."
-msgstr " fus* in una palla di radioattività."
-
-#: init.lua
-msgid " thought chemical waste was cool."
-msgstr " ha pensato che la morte chimica fosse figa."
-
-#: init.lua
-msgid " melted into a jittering pile of flesh."
-msgstr " sciolt* in un mucchietto di carne rabbrividente."
-
-#: init.lua
-msgid " couldn't resist that warm glow of toxic water."
-msgstr " non ha potuto resistere al caldo brillare dell'acqua tossica."
-
-#: init.lua
-msgid " dug straight down."
-msgstr " ha scavato dritto sotto di sé."
-
-#: init.lua
-msgid " went into the toxic curtain."
-msgstr " è andat* nella cortina tossica."
-
-#: init.lua
-msgid " thought it was a toxic-tub."
-msgstr " ha pensato che fosse una sauna tossica."
-
-#: init.lua
-msgid " is radioactive."
-msgstr " è radioattiv*."
-
-#: init.lua
-msgid " didn't know toxic water was radioactive."
-msgstr " non sapeva che l'acqua tossica fosse radioattiva."
-
-#: init.lua
-msgid " melted into a ball of fire."
-msgstr " si è fus* in una palla di fuoco."
-
-#: init.lua
-msgid " thought lava was cool."
-msgstr " ha pensato che la lava fosse figa."
-
-#: init.lua
-msgid " couldn't resist that warm glow of lava."
-msgstr " non ha potuto resistere al caldo brillare della lava."
-
-#: init.lua
-msgid " went into the lava curtain."
-msgstr " è andat* nella cortina di lava."
-
-#: init.lua
-msgid " thought it was a hottub."
-msgstr " ha pensato che fosse una sauna bollente."
-
-#: init.lua
-msgid " is melted."
-msgstr " è fus*."
-
-#: init.lua
-msgid " didn't know lava was hot."
-msgstr " non sapeva che la lava è bollente."
+msgid "Your character"
+msgstr "Il vostro personaggio"
 
 #: init.lua
 msgid " drowned."
-msgstr " affogat*."
+msgstr " è affogat*."
 
 #: init.lua
 msgid " ran out of air."
@@ -127,8 +67,72 @@ msgid " got burned up. More light that way."
 msgstr " è stat* bruciato. Così è più legger*."
 
 #: init.lua
+msgid " melted into a ball of fire."
+msgstr " si è fus* in una palla di fuoco."
+
+#: init.lua
+msgid " thought lava was cool."
+msgstr " ha pensato che la lava fosse figa."
+
+#: init.lua
+msgid " couldn't resist that warm glow of lava."
+msgstr " non ha potuto resistere al caldo brillare della lava."
+
+#: init.lua
+msgid " dug straight down."
+msgstr " ha scavato dritto sotto di sé."
+
+#: init.lua
+msgid " went into the lava curtain."
+msgstr " è andat* nella cortina di lava."
+
+#: init.lua
+msgid " thought it was a hottub."
+msgstr " ha pensato che fosse una sauna bollente."
+
+#: init.lua
+msgid " is melted."
+msgstr " è fus*."
+
+#: init.lua
+msgid " didn't know lava was hot."
+msgstr " non sapeva che la lava è bollente."
+
+#: init.lua
+msgid " melted into a ball of radioactivity."
+msgstr " si è fus* in una palla di radioattività."
+
+#: init.lua
+msgid " thought chemical waste was cool."
+msgstr " ha pensato che la morte chimica fosse figa."
+
+#: init.lua
+msgid " melted into a jittering pile of flesh."
+msgstr " si è sciolt* in un mucchietto di carne rabbrividente."
+
+#: init.lua
+msgid " couldn't resist that warm glow of toxic water."
+msgstr " non ha potuto resistere al caldo brillare dell'acqua tossica."
+
+#: init.lua
+msgid " went into the toxic curtain."
+msgstr " è andat* nella cortina tossica."
+
+#: init.lua
+msgid " thought it was a toxic-tub."
+msgstr " ha pensato che fosse una sauna tossica."
+
+#: init.lua
+msgid " is radioactive."
+msgstr " è radioattiv*."
+
+#: init.lua
+msgid " didn't know toxic water was radioactive."
+msgstr " non sapeva che l'acqua tossica fosse radioattiva."
+
+#: init.lua
 msgid " died."
-msgstr " mort*."
+msgstr " è morto."
 
 #: init.lua
 msgid " did something fatal."
@@ -171,8 +175,56 @@ msgid " got blowed up."
 msgstr " è stat* fatt* saltare in aria."
 
 #: init.lua
+msgid " and was eaten with a gurgling growl."
+msgstr " ed è stat* inghiottit* con un ruggito gorgogliante."
+
+#: init.lua
+msgid " then was cooked for dinner."
+msgstr " poi è stat* cucinat* per cena."
+
+#: init.lua
+msgid " then went to the supermarket."
+msgstr " poi è finit* al supermercato."
+
+#: init.lua
+msgid " badly."
+msgstr " malamente."
+
+#: init.lua
+msgid " terribly."
+msgstr " terribilmente."
+
+#: init.lua
+msgid " horribly."
+msgstr " orribilmente."
+
+#: init.lua
+msgid " in a haphazard way."
+msgstr " a casaccio."
+
+#: init.lua
+msgid " that sparkles in the twilight with that evil grin."
+msgstr " che scintilla nel crepuscolo con un ghigno malvagio."
+
+#: init.lua
+msgid " and now is covered by blood."
+msgstr " e adesso è copert* di sangue."
+
+#: init.lua
+msgid " so swiftly, that not even Chuck Norris could block."
+msgstr " così velocemente, che nemmeno Chuck Norris avrebbe potuto parare."
+
+#: init.lua
+msgid " for talking smack about Oerkkii's mother."
+msgstr " per avere parlato sconciamente della madre di Oerkki."
+
+#: init.lua
+msgid " and grimmaced wryly."
+msgstr " e ha fatto una smorfia di disappunto."
+
+#: init.lua
 msgid " fisted"
-msgstr " pres* a cazzotti"
+msgstr " pres* a pugni"
 
 #: init.lua
 msgid " sliced up"
@@ -180,7 +232,7 @@ msgstr " affettat*"
 
 #: init.lua
 msgid " rekt"
-msgstr " rovinat*"
+msgstr " scassat*"
 
 #: init.lua
 msgid " punched"
@@ -192,7 +244,7 @@ msgstr " fatt* a pezzi"
 
 #: init.lua
 msgid " skewered"
-msgstr " infilzato su uno spiedino"
+msgstr " infilzat* come uno spiedino"
 
 #: init.lua
 msgid " blasted"
@@ -212,11 +264,11 @@ msgstr " controllat* a fil di spada"
 
 #: init.lua
 msgid " turned into a jittering pile of flesh"
-msgstr " trasformat* in un mucchio di carne rabbrividente"
+msgstr " trasformat* in un mucchio di carne agghiacciante"
 
 #: init.lua
 msgid " buried"
-msgstr " seppellit*"
+msgstr " sotterrat*"
 
 #: init.lua
 msgid " served"
@@ -240,11 +292,11 @@ msgstr " istruit*"
 
 #: init.lua
 msgid " told"
-msgstr " dett*"
+msgstr " sgridat*"
 
 #: init.lua
 msgid " learned"
-msgstr " insegnat*"
+msgstr " ripassat*"
 
 #: init.lua
 msgid " chopped up"
@@ -252,7 +304,7 @@ msgstr " tagliat* di netto"
 
 #: init.lua
 msgid " deader than ded ded ded"
-msgstr " più mort* della madre della Morte"
+msgstr " presentat* alla Morte"
 
 #: init.lua
 msgid " CHOSEN to be the ONE"
@@ -260,11 +312,11 @@ msgstr " prescelt* per essere l'elett*"
 
 #: init.lua
 msgid " all kinds of messed up"
-msgstr " ogni tipo di incasinamento"
+msgstr " incasinat* di brutto"
 
 #: init.lua
 msgid " smoked like a Newport"
-msgstr " fumava come un pipa"
+msgstr " fumat* come una Newport"
 
 #: init.lua
 msgid " hurted"
@@ -272,7 +324,7 @@ msgstr " ferit*"
 
 #: init.lua
 msgid " ballistic-ed"
-msgstr " balistica-to"
+msgstr " balistica-t*"
 
 #: init.lua
 msgid " jostled"
@@ -280,7 +332,7 @@ msgstr " spintonat*"
 
 #: init.lua
 msgid " messed-da-frig-up"
-msgstr " incasinat* fottutamente"
+msgstr " ribaltat* completamente"
 
 #: init.lua
 msgid " lanced"
@@ -292,11 +344,11 @@ msgstr " sparat*"
 
 #: init.lua
 msgid " knocked da heck out"
-msgstr " gli ha fatto sputare l'anima"
+msgstr " pestat* per bene"
 
 #: init.lua
 msgid " pooped on"
-msgstr " gli ha fatto la cacca addosso"
+msgstr " scagazzat*"
 
 #: init.lua
 msgid " for talking smack about thier mother."
@@ -304,11 +356,11 @@ msgstr " per avere parlato sconciamente di sua madre."
 
 #: init.lua
 msgid " for cheating at Tic-Tac-Toe."
-msgstr " per avere barato a dama."
+msgstr " per avere barato a tela."
 
 #: init.lua
 msgid " for being a stinky poop butt."
-msgstr " per essere un sedere che puzza di cacca."
+msgstr " per essere un popò che puzza di pupù."
 
 #: init.lua
 msgid " for letting Baggins grief."
@@ -347,58 +399,6 @@ msgid " with the quickness."
 msgstr " con velocità."
 
 #: init.lua
-msgid " and was eaten with a gurgling growl."
-msgstr " ed é stat* inghiottit* con un ruggito gorgogliante."
-
-#: init.lua
-msgid " then was cooked for dinner."
-msgstr " poi è stat* cucinat* per cena."
-
-#: init.lua
-msgid " then went to the supermarket."
-msgstr " poi è andat* al supermercato."
-
-#: init.lua
-msgid " badly."
-msgstr " malamente."
-
-#: init.lua
-msgid " terribly."
-msgstr " terribilmente."
-
-#: init.lua
-msgid " horribly."
-msgstr " orribilmente."
-
-#: init.lua
-msgid " in a haphazard way."
-msgstr " a casaccio."
-
-#: init.lua
-msgid " that sparkles in the twilight with that evil grin."
-msgstr " che scintilla nel crepuscolo con un ghigno malvagio."
-
-#: init.lua
-msgid " and now is covered by blood."
-msgstr " e adesso è copert* di sangue."
-
-#: init.lua
-msgid " so swiftly, that not even Chuck Norris could block."
-msgstr " così velocemente, che nemmeno Chuck Norris avrebbe potuto parare."
-
-#: init.lua
-msgid " for talking smack about Oerkkii's mother."
-msgstr " per avere parlato in modo sconcio della madre di Oerkki."
-
-#: init.lua
-msgid " and grimmaced wryly."
-msgstr " e ha fatto una smorfia di disappunto."
-
-#: init.lua
-msgid "You"
-msgstr "Tu"
-
-#: init.lua
 msgid " while texting."
 msgstr " mentre scriveva."
 
@@ -413,3 +413,173 @@ msgstr " da "
 #: init.lua
 msgid " with "
 msgstr " con "
+
+#: init.lua
+msgid "a Wooden Pick"
+msgstr "un piccone di legno"
+
+#: init.lua
+msgid "a Stone Pick"
+msgstr "un piccone di pietra"
+
+#: init.lua
+msgid "a Steel Pick"
+msgstr "un piccone di acciaio"
+
+#: init.lua
+msgid "a Bronze Pick"
+msgstr "un piccone di bronzo"
+
+#: init.lua
+msgid "a Mese Pick"
+msgstr "un piccone di mese"
+
+#: init.lua
+msgid "a Diamond Pick"
+msgstr "un piccone di diamante"
+
+#: init.lua
+msgid "a Wooden Shovel"
+msgstr "una zappa di legno"
+
+#: init.lua
+msgid "a Stone Shovel"
+msgstr "una zappa di pietra"
+
+#: init.lua
+msgid "a Steel Shovel"
+msgstr "una zappa di acciaio"
+
+#: init.lua
+msgid "a Bronze Shovel"
+msgstr "una zappa di bronzo"
+
+#: init.lua
+msgid "a Mese Shovel"
+msgstr "una zappa di mese"
+
+#: init.lua
+msgid "a Diamond Shovel"
+msgstr "una zappa di diamante"
+
+#: init.lua
+msgid "a Wooden Axe"
+msgstr "un'accetta di legno"
+
+#: init.lua
+msgid "a Stone Axe"
+msgstr "un'accetta di pietra"
+
+#: init.lua
+msgid "a Steel Axe"
+msgstr "un'accetta di acciaio"
+
+#: init.lua
+msgid "a Bronze Axe"
+msgstr "un'accetta di bronzo"
+
+#: init.lua
+msgid "a Mese Axe"
+msgstr "un'accetta di mese"
+
+#: init.lua
+msgid "a Diamon Axe"
+msgstr "un'accetta di diamante"
+
+#: init.lua
+msgid "a Wooden Sword"
+msgstr "una spada di legno"
+
+#: init.lua
+msgid "a Stone Sword"
+msgstr "una spada di pietra"
+
+#: init.lua
+msgid "a Steel Sword"
+msgstr "una spada di acciaio"
+
+#: init.lua
+msgid "a Bronze Sword"
+msgstr "una spada di bronzo"
+
+#: init.lua
+msgid "a Mese Sword"
+msgstr "una spada di mese"
+
+#: init.lua
+msgid "a Diamond Sword"
+msgstr "una spada di diamante"
+
+#: init.lua
+msgid "a cow"
+msgstr "una mucca"
+
+#: init.lua
+msgid "a warthog"
+msgstr "un facocero"
+
+#: init.lua
+msgid "a dungeon master"
+msgstr "un signore dei sotterranei"
+
+#: init.lua
+msgid "a sand monster"
+msgstr "un mostro di sabbia"
+
+#: init.lua
+msgid "an Oerkki"
+msgstr "un Oerkki"
+
+#: init.lua
+msgid "a stone monster"
+msgstr "un mostro di pietra"
+
+#: init.lua
+msgid "a lava flan"
+msgstr "uno sformato di lava"
+
+#: init.lua
+msgid "a spider"
+msgstr "un ragno"
+
+#: init.lua
+msgid "a mese monster"
+msgstr "un mostro di mese"
+
+#: init.lua
+msgid "a tree monster"
+msgstr "un albero mostro"
+
+#: init.lua
+msgid "a dirt monster"
+msgstr "un mostro di terra"
+
+#: init.lua
+msgid "a goblin"
+msgstr "un folletto"
+
+#: init.lua
+msgid "a goblin king"
+msgstr "un re folletto"
+
+#: init.lua
+msgid "a crocodile"
+msgstr "un coccodrillo"
+
+#: init.lua
+msgid "a large shark"
+msgstr "uno squalo grande"
+
+#: init.lua
+msgid "a medium shark"
+msgstr "uno squalo medio"
+
+#: init.lua
+msgid "a small shark"
+msgstr "uno squalo piccolo"
+
+#~ msgid "cow"
+#~ msgstr "mucca"
+
+#~ msgid "You"
+#~ msgstr "Voi"

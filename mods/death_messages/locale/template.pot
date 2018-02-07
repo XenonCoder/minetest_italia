@@ -1,6 +1,6 @@
-# DEATH MESSAGES LOCALE FILE.
+# SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the Death Messages package.
+# This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-30 21:43+0100\n"
+"POT-Creation-Date: 2018-02-07 12:26+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,67 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: init.lua
-msgid " melted into a ball of radioactivity."
-msgstr ""
-
-#: init.lua
-msgid " thought chemical waste was cool."
-msgstr ""
-
-#: init.lua
-msgid " melted into a jittering pile of flesh."
-msgstr ""
-
-#: init.lua
-msgid " couldn't resist that warm glow of toxic water."
-msgstr ""
-
-#: init.lua
-msgid " dug straight down."
-msgstr ""
-
-#: init.lua
-msgid " went into the toxic curtain."
-msgstr ""
-
-#: init.lua
-msgid " thought it was a toxic-tub."
-msgstr ""
-
-#: init.lua
-msgid " is radioactive."
-msgstr ""
-
-#: init.lua
-msgid " didn't know toxic water was radioactive."
-msgstr ""
-
-#: init.lua
-msgid " melted into a ball of fire."
-msgstr ""
-
-#: init.lua
-msgid " thought lava was cool."
-msgstr ""
-
-#: init.lua
-msgid " couldn't resist that warm glow of lava."
-msgstr ""
-
-#: init.lua
-msgid " went into the lava curtain."
-msgstr ""
-
-#: init.lua
-msgid " thought it was a hottub."
-msgstr ""
-
-#: init.lua
-msgid " is melted."
-msgstr ""
-
-#: init.lua
-msgid " didn't know lava was hot."
+msgid "Your character"
 msgstr ""
 
 #: init.lua
@@ -126,6 +66,70 @@ msgid " got burned up. More light that way."
 msgstr ""
 
 #: init.lua
+msgid " melted into a ball of fire."
+msgstr ""
+
+#: init.lua
+msgid " thought lava was cool."
+msgstr ""
+
+#: init.lua
+msgid " couldn't resist that warm glow of lava."
+msgstr ""
+
+#: init.lua
+msgid " dug straight down."
+msgstr ""
+
+#: init.lua
+msgid " went into the lava curtain."
+msgstr ""
+
+#: init.lua
+msgid " thought it was a hottub."
+msgstr ""
+
+#: init.lua
+msgid " is melted."
+msgstr ""
+
+#: init.lua
+msgid " didn't know lava was hot."
+msgstr ""
+
+#: init.lua
+msgid " melted into a ball of radioactivity."
+msgstr ""
+
+#: init.lua
+msgid " thought chemical waste was cool."
+msgstr ""
+
+#: init.lua
+msgid " melted into a jittering pile of flesh."
+msgstr ""
+
+#: init.lua
+msgid " couldn't resist that warm glow of toxic water."
+msgstr ""
+
+#: init.lua
+msgid " went into the toxic curtain."
+msgstr ""
+
+#: init.lua
+msgid " thought it was a toxic-tub."
+msgstr ""
+
+#: init.lua
+msgid " is radioactive."
+msgstr ""
+
+#: init.lua
+msgid " didn't know toxic water was radioactive."
+msgstr ""
+
+#: init.lua
 msgid " died."
 msgstr ""
 
@@ -167,6 +171,54 @@ msgstr ""
 
 #: init.lua
 msgid " got blowed up."
+msgstr ""
+
+#: init.lua
+msgid " and was eaten with a gurgling growl."
+msgstr ""
+
+#: init.lua
+msgid " then was cooked for dinner."
+msgstr ""
+
+#: init.lua
+msgid " then went to the supermarket."
+msgstr ""
+
+#: init.lua
+msgid " badly."
+msgstr ""
+
+#: init.lua
+msgid " terribly."
+msgstr ""
+
+#: init.lua
+msgid " horribly."
+msgstr ""
+
+#: init.lua
+msgid " in a haphazard way."
+msgstr ""
+
+#: init.lua
+msgid " that sparkles in the twilight with that evil grin."
+msgstr ""
+
+#: init.lua
+msgid " and now is covered by blood."
+msgstr ""
+
+#: init.lua
+msgid " so swiftly, that not even Chuck Norris could block."
+msgstr ""
+
+#: init.lua
+msgid " for talking smack about Oerkkii's mother."
+msgstr ""
+
+#: init.lua
+msgid " and grimmaced wryly."
 msgstr ""
 
 #: init.lua
@@ -346,58 +398,6 @@ msgid " with the quickness."
 msgstr ""
 
 #: init.lua
-msgid " and was eaten with a gurgling growl."
-msgstr ""
-
-#: init.lua
-msgid " then was cooked for dinner."
-msgstr ""
-
-#: init.lua
-msgid " then went to the supermarket."
-msgstr ""
-
-#: init.lua
-msgid " badly."
-msgstr ""
-
-#: init.lua
-msgid " terribly."
-msgstr ""
-
-#: init.lua
-msgid " horribly."
-msgstr ""
-
-#: init.lua
-msgid " in a haphazard way."
-msgstr ""
-
-#: init.lua
-msgid " that sparkles in the twilight with that evil grin."
-msgstr ""
-
-#: init.lua
-msgid " and now is covered by blood."
-msgstr ""
-
-#: init.lua
-msgid " so swiftly, that not even Chuck Norris could block."
-msgstr ""
-
-#: init.lua
-msgid " for talking smack about Oerkkii's mother."
-msgstr ""
-
-#: init.lua
-msgid " and grimmaced wryly."
-msgstr ""
-
-#: init.lua
-msgid "You"
-msgstr ""
-
-#: init.lua
 msgid " while texting."
 msgstr ""
 
@@ -411,4 +411,168 @@ msgstr ""
 
 #: init.lua
 msgid " with "
+msgstr ""
+
+#: init.lua
+msgid "a Wooden Pick"
+msgstr ""
+
+#: init.lua
+msgid "a Stone Pick"
+msgstr ""
+
+#: init.lua
+msgid "a Steel Pick"
+msgstr ""
+
+#: init.lua
+msgid "a Bronze Pick"
+msgstr ""
+
+#: init.lua
+msgid "a Mese Pick"
+msgstr ""
+
+#: init.lua
+msgid "a Diamond Pick"
+msgstr ""
+
+#: init.lua
+msgid "a Wooden Shovel"
+msgstr ""
+
+#: init.lua
+msgid "a Stone Shovel"
+msgstr ""
+
+#: init.lua
+msgid "a Steel Shovel"
+msgstr ""
+
+#: init.lua
+msgid "a Bronze Shovel"
+msgstr ""
+
+#: init.lua
+msgid "a Mese Shovel"
+msgstr ""
+
+#: init.lua
+msgid "a Diamond Shovel"
+msgstr ""
+
+#: init.lua
+msgid "a Wooden Axe"
+msgstr ""
+
+#: init.lua
+msgid "a Stone Axe"
+msgstr ""
+
+#: init.lua
+msgid "a Steel Axe"
+msgstr ""
+
+#: init.lua
+msgid "a Bronze Axe"
+msgstr ""
+
+#: init.lua
+msgid "a Mese Axe"
+msgstr ""
+
+#: init.lua
+msgid "a Diamon Axe"
+msgstr ""
+
+#: init.lua
+msgid "a Wooden Sword"
+msgstr ""
+
+#: init.lua
+msgid "a Stone Sword"
+msgstr ""
+
+#: init.lua
+msgid "a Steel Sword"
+msgstr ""
+
+#: init.lua
+msgid "a Bronze Sword"
+msgstr ""
+
+#: init.lua
+msgid "a Mese Sword"
+msgstr ""
+
+#: init.lua
+msgid "a Diamond Sword"
+msgstr ""
+
+#: init.lua
+msgid "a cow"
+msgstr ""
+
+#: init.lua
+msgid "a warthog"
+msgstr ""
+
+#: init.lua
+msgid "a dungeon master"
+msgstr ""
+
+#: init.lua
+msgid "a sand monster"
+msgstr ""
+
+#: init.lua
+msgid "an Oerkki"
+msgstr ""
+
+#: init.lua
+msgid "a stone monster"
+msgstr ""
+
+#: init.lua
+msgid "a lava flan"
+msgstr ""
+
+#: init.lua
+msgid "a spider"
+msgstr ""
+
+#: init.lua
+msgid "a mese monster"
+msgstr ""
+
+#: init.lua
+msgid "a tree monster"
+msgstr ""
+
+#: init.lua
+msgid "a dirt monster"
+msgstr ""
+
+#: init.lua
+msgid "a goblin"
+msgstr ""
+
+#: init.lua
+msgid "a goblin king"
+msgstr ""
+
+#: init.lua
+msgid "a crocodile"
+msgstr ""
+
+#: init.lua
+msgid "a large shark"
+msgstr ""
+
+#: init.lua
+msgid "a medium shark"
+msgstr ""
+
+#: init.lua
+msgid "a small shark"
 msgstr ""
