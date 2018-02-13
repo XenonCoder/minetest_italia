@@ -2,9 +2,9 @@ local serverguide_Book_title="The Italian Minetest server guide"
 
 local serverguide_Tab_Text_1="Server info\nCiao e benvenuto sul server italiano di Minetest\nDigita /guide per aprire questa guida \nIl server è in sviluppo continuo, partecipa anche tu segnalando bug, problemi \no dimostrando la tua bravura nel costruire fantastiche strutture.\nSe vuoi contattarci ci trovi nella sezione italiana del forum ufficiale di minetest.\nResta con noi e insieme potremmo creare un mondo virtuale senza paragoni."
 local serverguide_Tab_Text_2="Regole del Server \nLe regole del server sono semplici, basta un pò di buon senso:\nNon chiedere privilegi o diritti amministrativi\nNon usare un linguaggio o nomi offensivi\nNon invadere costruzioni altrui a 365 gradi (griefing)\nNon rubare o usare nomi di altri utenti\nNon imbrogliare (hacking)\nNon importunare inutilmente utenti e admin\nNon spammare nella chat e non pubblicizzare altri server."
-local serverguide_Tab_Text_3="Staff (moderatori o admin)\nAttualmente non ci sono moderatori e c'e' un unico Admin"
+local serverguide_Tab_Text_3="Staff (moderatori o admin)\nAdmin:\n CarlBishop - pandaro - Hamlet\nModeratori:\nHALINA - ciccio - Blockman"
 local serverguide_Tab_Text_4="Comandi:\nImposta il punto di spawn con /sethome usa /home per tornare al punto di spawn \nUsa /status per l'elenco utenti online\nUsa /msg nomeutente messaggio per inviare un messaggio privato"
-local serverguide_Tab_Text_5="Aiuto\nContatta un admin solo se\n incontri un problema che non riesci a risolvere da solo\nPer scendere dal carrello click destro (quello che usi per piazzare blocchi).\nPer scendere in corsa senza perdere il carrello o per rimuovere il carrello usa shift tasto sinistro"
+local serverguide_Tab_Text_5="Aiuto\nContatta un admin o un moderatore solo se\n incontri un problema che non riesci a risolvere da solo\nPer scendere dal carrello click destro (quello che usi per piazzare blocchi).\nPer scendere in corsa senza perdere il carrello o per rimuovere il carrello usa shift tasto sinistro"
 
 local serverguide_Tab_1="Server"
 local serverguide_Tab_2="Regole"
