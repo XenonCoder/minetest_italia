@@ -186,7 +186,7 @@ if minetest.register_on_punchplayer then    --new way of finding attackers, not 
                         elseif city_block.suspects[name] > 10 then
                             minetest.after(3.0, city_block.additional_jail, {name})
                         end
-					minetest.set_player_privs(hitter, {interact = false, home = false, shout = true })
+
     					hitter:setpos( {x=-90.3, y=20.5, z=-67.9} )
     					minetest.chat_send_all("Player "..name.." sent to jail for killing " .. pname .." without reason in town")
     					minetest.log("action", "Player "..name.." warned for killing in town")
@@ -206,7 +206,6 @@ else    --old, deprecated way of checking. compatible for
     					suspect_name=suspect:get_player_name()
     					if city_block.suspects[suspect_name] then
     						if city_block.suspects[suspect_name]>3 then
-							minetest.set_player_privs(suspect, {interact = false, home = false, shout = true })
     							suspect:setpos( {x=-90.3, y=20.5, z=-67.9} )
     							minetest.chat_send_all("Player "..suspect_name.." sent to jail as suspect for killing in town")
     							minetest.log("action", "Player "..suspect_name.." warned for killing in town")
